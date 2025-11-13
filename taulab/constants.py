@@ -1,0 +1,10 @@
+
+# General Physical Constants
+PLANCK_CONSTANT = 6.62607015e-34  # m^2 kg / s
+BOLTZMANN_CONSTANT = 1.380649e-23  # m^2 kg / s^2 K
+SPEED_OF_LIGHT = 299792458  # m / s
+ELEMENTARY_CHARGE = 1.602176634e-19  # C
+
+# Thermal Radiation Constants
+WIEN_CONSTANT = 2.897771955e-3  # m·K
+STEFAN_BOLTZMANN_CONSTANT = 5.670374419e-8  # W·m^-2·K^-4
